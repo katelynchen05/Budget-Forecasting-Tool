@@ -1,4 +1,4 @@
-# 💰 Budget Forecaster
+# Budget Forecaster
 
 A professional personal financial planning and cash flow forecasting tool
 built with Python — modelled after the type of financial dashboards used by
@@ -6,7 +6,7 @@ FP&A teams. Powered by Streamlit, Plotly, Statsmodels, and Scikit-learn.
 
 ---
 
-## ✨ Features
+## Features
 
 | Module | What it does |
 |---|---|
@@ -72,7 +72,7 @@ budget_forecaster/
 
 ---
 
-## 📤 Uploading Your Own Data
+## Uploading Your Own Data
 
 Export a CSV from your bank with these columns:
 
@@ -97,7 +97,7 @@ Export a CSV from your bank with these columns:
 
 ---
 
-## 🎲 Monte Carlo Simulation
+## Monte Carlo Simulation
 
 Runs N simulations (default 10,000) drawing monthly income and expenses
 from normal distributions and adding random surprise expenses.
@@ -124,7 +124,7 @@ Grades: **Excellent** (90–100) · **Good** (75–89) · **Fair** (60–74) · 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Streamlit** – dashboard UI
 - **Pandas / NumPy** – data processing
@@ -136,7 +136,7 @@ Grades: **Excellent** (90–100) · **Good** (75–89) · **Fair** (60–74) · 
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - PDF report export
 - Machine learning merchant categoriser (TF-IDF + logistic regression)
